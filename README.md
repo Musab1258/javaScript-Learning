@@ -1,2 +1,3 @@
 # javaScript-Learning
-The sdhsdhsdj jshsdjjsd.
+
+This is a demo repository.
